@@ -1,0 +1,10 @@
+id: 01GSYEYB2QN9B25R7QHZ3R23YH
+description: ''
+expected: GitHub
+patterns:
+  - /github/i
+allows: []
+specs:
+  - from: github
+    to: GitHub
+tags: []
