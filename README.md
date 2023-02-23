@@ -42,3 +42,4 @@ Run following command in your local:
     npm test
 
 [_data/proofdict]: _data/proofdict "dictionary data directory"
+
